@@ -6,6 +6,7 @@ link: https://mahoninje.github.io/BlazorWASMAppStatic/
 1) login: 'user', password 'user', role: 'SimpleUser'
 2) login: 'admin', password 'admin', role: 'Admin'
 По ним логинимся и юзаем SPA. Страница /admin - 'админ. панель' доступна только пользователям с ролью 'Admin'
+Пароли хранятся в зашифрованном виде.
 Справа сверху кнопка 'Logout' для выхода из аккаунта.
 
 Screenshots:
